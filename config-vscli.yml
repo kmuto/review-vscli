@@ -1,0 +1,10 @@
+inherit: ["config.yml"]
+# vivliostyle CSSを利用
+stylesheet: ["bundle.css"]
+# コードハイライト
+highlight:
+  html: "rouge"
+# カスタムのcatalogを利用したいとき
+# catalogfile: catalog.yml
+# 大扉なし
+titlepage: null
